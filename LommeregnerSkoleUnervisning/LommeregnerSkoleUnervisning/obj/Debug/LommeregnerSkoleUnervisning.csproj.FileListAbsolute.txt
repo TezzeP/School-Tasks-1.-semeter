@@ -1,0 +1,9 @@
+E:\visual studio\Mine Programmer\LommeregnerSkoleUnervisning\LommeregnerSkoleUnervisning\bin\Debug\LommeregnerSkoleUnervisning.exe.config
+E:\visual studio\Mine Programmer\LommeregnerSkoleUnervisning\LommeregnerSkoleUnervisning\bin\Debug\LommeregnerSkoleUnervisning.exe
+E:\visual studio\Mine Programmer\LommeregnerSkoleUnervisning\LommeregnerSkoleUnervisning\bin\Debug\LommeregnerSkoleUnervisning.pdb
+E:\visual studio\Mine Programmer\LommeregnerSkoleUnervisning\LommeregnerSkoleUnervisning\obj\Debug\LommeregnerSkoleUnervisning.csprojAssemblyReference.cache
+E:\visual studio\Mine Programmer\LommeregnerSkoleUnervisning\LommeregnerSkoleUnervisning\obj\Debug\LommeregnerSkoleUnervisning.Form1.resources
+E:\visual studio\Mine Programmer\LommeregnerSkoleUnervisning\LommeregnerSkoleUnervisning\obj\Debug\LommeregnerSkoleUnervisning.Properties.Resources.resources
+E:\visual studio\Mine Programmer\LommeregnerSkoleUnervisning\LommeregnerSkoleUnervisning\obj\Debug\LommeregnerSkoleUnervisning.csproj.GenerateResource.cache
+E:\visual studio\Mine Programmer\LommeregnerSkoleUnervisning\LommeregnerSkoleUnervisning\obj\Debug\LommeregnerSkoleUnervisning.exe
+E:\visual studio\Mine Programmer\LommeregnerSkoleUnervisning\LommeregnerSkoleUnervisning\obj\Debug\LommeregnerSkoleUnervisning.pdb

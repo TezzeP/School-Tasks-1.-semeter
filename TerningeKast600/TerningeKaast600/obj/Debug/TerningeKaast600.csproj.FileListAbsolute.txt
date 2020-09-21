@@ -1,0 +1,12 @@
+C:\Users\Tezze\source\repos\TerningeKast600\TerningeKaast600\bin\Debug\TerningeKaast600.exe.config
+C:\Users\Tezze\source\repos\TerningeKast600\TerningeKaast600\bin\Debug\TerningeKaast600.exe
+C:\Users\Tezze\source\repos\TerningeKast600\TerningeKaast600\bin\Debug\TerningeKaast600.pdb
+C:\Users\Tezze\source\repos\TerningeKast600\TerningeKaast600\obj\Debug\TerningeKaast600.csprojAssemblyReference.cache
+C:\Users\Tezze\source\repos\TerningeKast600\TerningeKaast600\obj\Debug\TerningeKaast600.exe
+C:\Users\Tezze\source\repos\TerningeKast600\TerningeKaast600\obj\Debug\TerningeKaast600.pdb
+E:\visual studio\Mine Programmer\TerningeKast600\TerningeKaast600\bin\Debug\TerningeKaast600.exe.config
+E:\visual studio\Mine Programmer\TerningeKast600\TerningeKaast600\bin\Debug\TerningeKaast600.exe
+E:\visual studio\Mine Programmer\TerningeKast600\TerningeKaast600\bin\Debug\TerningeKaast600.pdb
+E:\visual studio\Mine Programmer\TerningeKast600\TerningeKaast600\obj\Debug\TerningeKaast600.csprojAssemblyReference.cache
+E:\visual studio\Mine Programmer\TerningeKast600\TerningeKaast600\obj\Debug\TerningeKaast600.exe
+E:\visual studio\Mine Programmer\TerningeKast600\TerningeKaast600\obj\Debug\TerningeKaast600.pdb
